@@ -1,0 +1,15 @@
+Q10 - LOAN ELIGIBILITY
+----------------------
+Get the user's age and monthly salary.
+
+Age >= 21
+AND
+Monthly salary >= Rs.30,000
+
+If both conditions are satisfied, display:
+
+Loan Eligible
+
+Otherwise display:
+
+Loan Not Eligible.

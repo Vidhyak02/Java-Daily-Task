@@ -1,0 +1,10 @@
+Q09 - DISCOUNT CALCULATION
+--------------------------
+Get the purchase amount from the user.
+
+Amount >= Rs.5000  -> 20% discount
+Amount >= Rs.3000  -> 15% discount
+Amount >= Rs.1000  -> 10% discount
+Below Rs.1000      -> No discount
+
+Display the discount amount and final amount.
