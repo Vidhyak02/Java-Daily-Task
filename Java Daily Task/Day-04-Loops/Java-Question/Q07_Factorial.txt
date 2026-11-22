@@ -1,0 +1,3 @@
+Q07 - FACTORIAL
+---------------
+Get a number from the user and find its factorial.

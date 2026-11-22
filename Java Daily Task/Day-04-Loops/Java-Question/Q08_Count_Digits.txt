@@ -1,0 +1,3 @@
+Q08 - COUNT DIGITS
+------------------
+Get a number from the user and count how many digits it contains.

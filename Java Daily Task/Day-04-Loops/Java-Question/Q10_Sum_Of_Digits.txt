@@ -1,0 +1,3 @@
+Q10 - SUM OF DIGITS
+-------------------
+Get a number from the user and find the sum of all its digits.
